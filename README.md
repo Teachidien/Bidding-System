@@ -68,7 +68,8 @@ Note :
 [Go To Sequence](#sequence-1d)<br>
 [Go To Competitive](#competitive-1d)<br>
 Note :
-1. Pastikan tidak bisa opening 1H/1S/1NT
+1. Pastikan tidak bisa opening 1H/1S/1NT/2C
+2. jika kartu 5440, 0 nya major, open 1D
 
 
 ## 1M
@@ -273,7 +274,7 @@ How to remember :<br>
     - Versi jika lupa 1C-2S
         - 1C - 2C - 2H - 3C = 6+C 8-11 HCP (padahal ini harusnya lewat 2S)
     - response defaultnya tentu saja bertanya one suiter-nya apa (2NT)
-- 1C-3C/3D/3H
+- 1C-3C/3D/3H/3S
     - Sisanya kartu yang sangat jarang + sering dilupakan, sehingga tidak perlu dihapal biasanya aman-aman saja
 
 ## 1C-1D
