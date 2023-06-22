@@ -426,6 +426,10 @@ Note :
 - 2D = 4H
 - 2H = 4S
 - 2S = No 4M
+- 2NT = 11-13 HCP full balance ( 4333 )
+- 3C = 11-13 HCP 4C + 4D/H/S
+- 3D = 11-13 HCP 4D + 4H
+- 3H = 11-13 HCP 
 
 
 
