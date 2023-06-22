@@ -64,18 +64,12 @@ Note :
 
 ## 1D
 [Back](#content)<br>
-1D = 12-15 HCP 2+D <br>
+1D = 12-15 HCP 1+D <br>
 [Go To Sequence](#sequence-1d)<br>
 [Go To Competitive](#competitive-1d)<br>
 Note :
-1. Pastikan tidak bisa opening 1H/1S/1NT/2C
-2. Secara general bentuk tangannya :
-    1. 12-14 HCP Balance (weak)
-    2. 12-15 HCP 6+D
-    3. 12-15 HCP (5+4+) mm
-    4. 12-15 HCP other hand :
-        1. (4441), 1 selain di D
-        2. 4M + 5D
+1. Pastikan tidak bisa opening 1H/1S/1NT
+
 
 ## 1M
 [Back](#content)<br>
@@ -87,6 +81,7 @@ Note :
 [Go To Competitive](#competitive-1s)<br>
 Note :
 1. Utamakan M daripada m, sehingga walau minor lebih panjang opening tetap 1M
+2. Apabila S dan H sama" 5 lembar, open 1S
 
 ## 1NT
 [Back](#content)<br>
@@ -94,53 +89,35 @@ Note :
 [Go To Sequence](#Sequence-1NT) <br>
 [Go To Competitive bidding](#competitive-1nt)<br>
 [Go To Examples](./Examples/1NT-Strong)<br>
-Note :
-1. Janjian apakah boleh punya 5M
-2. Lebih enak boleh punya 5M
 
 ## 2C
 [Back](#content)<br>
 2C = 12-15 HCP 5C + 4M / 6+C <br>
 [Go To Sequence](#sequence-2c)<br>
-Note : 
-1. dist tidak mm (lewat opening 1D jika mm)
-2. Tidak menggunakan rule of 20 (12 HCP + 5C + 4M >= 20)
-3. Prinsipnya adalah apabila 2C tidak dipass :
-    - Part Score :
-        - Stop bid hanya di 3C
-        - Atau lewat 3D = puppet to 3H, berikut list tujuan
-            - 2C-3C-3D = bad fit M (2 lembar)
-            - 2C-2H-2S-3D = T/P 3H
-            - 2C-2S-2NT-3D = T/P 3H
-                - Gak ada cara buat T/P Spades
-    - sisanya forcing (kecuali bid to play)
 
 ## 2D
 [Back](#content)<br>
-2D = 12-15 HCP 4414 / 4405 <br>
+2D = 6-9 HCP 6H / 6S <br>
 [Go To Sequence](#sequence-2d)<br>
 Note :
-1. short di D
-2. 5 cards di C
+1. Biasa disebut Weak Major
+2. tidak boleh 7 lembar, kecuali 7222
+
 
 ## 2M
 [Back](#content)<br>
-2H = 8-10 HCP 6+H <br>
+2H = 6-9 HCP 5H+5any <br>
 [Go To Sequence 2H](#sequence-2h) <br>
-2S = 8-10 HCP 6+S <br>
+2S = 6-9 HCP 5S+5m <br>
 [Go To Sequence 2H](#sequence-2h)<br>
-Note :
-1. Biasa disebut weak
-2. Sangat boleh HCP < 8 jika dist bagus
-3. Tangan pertama/kedua lebih baik tidak punya 4 lbr other M
-    - tangan ketiga keempat bebas, normalnya juga gaboleh
+
 
 ## 2NT
 [Back](#content)<br>
-2NT = 6-10 HCP mm <br>
+2NT = 6-9 HCP mm <br>
 Note :
-1. Tidak ada spesifik HCP minimum
-2. jika 54 mm lebih baik saat NV dan ada short
+1. Biasa disebut Weak Minor
+
 
 ## 3X
 [Back](#content)<br>
@@ -251,12 +228,12 @@ List Sequences : <br>
 - 1H = 8+ HCP 5+H
 - 1S = 8+ HCP 5+S
 - [1NT= 8+ HCP Balance](#1c-1nt)
-    - 5332 bid natural-nya
+    - boleh 5332, tapi 5 nya harus minor
     - Tidak ada one step artificial 12+ HCP
         - Karena akan dijawab dengan step (bila udah belajar slam)
 - 2C = 8+ HCP 5+C
 - 2D = 8+ HCP 5+D
-- [2H = 8+ HCP 4441 any singleton](#1c-2h-2s)
+- [2H = 11+ HCP 4441 any singleton](#1c-2h-2s)
 - [2S = 8-11 HCP 6+any](#1c-2s-2nt)
     - Karena ada ini maka contoh bid:
         - 1C-1H-1S-2H = 6+H 12+HCP
@@ -264,10 +241,11 @@ List Sequences : <br>
         - dst yang natural 2x otomatis 12+ HCP
         - maka jika natural -> one step -> natural suit sama
             - maka kartunya biasanya yang super bagus
-- 2NT= 8-11 HCP 5C + 5any
-- 3C = 8-11 HCP 5D + 5H
-- 3D = 8-11 HCP 5H + 5S
-- 3H = 8-11 HCP 5S + 5D
+- 2NT= ???
+- 3C = 8-10 HCP single C ( 4441 )
+- 3D = 8-10 HCP single D ( 4414 )
+- 3H = 8-10 HCP single H ( 4144 )
+- 3S = 8-10 HCP single S ( 1444 )
 
 Note :<br>
 - Selain bid 1D, semuanya adalah Game Force (GF)
@@ -295,7 +273,7 @@ How to remember :<br>
     - Versi jika lupa 1C-2S
         - 1C - 2C - 2H - 3C = 6+C 8-11 HCP (padahal ini harusnya lewat 2S)
     - response defaultnya tentu saja bertanya one suiter-nya apa (2NT)
-- 1C-2NT/3C/3D/3H
+- 1C-3C/3D/3H
     - Sisanya kartu yang sangat jarang + sering dilupakan, sehingga tidak perlu dihapal biasanya aman-aman saja
 
 ## 1C-1D
