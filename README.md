@@ -105,12 +105,16 @@ Note :
 2. tidak boleh 7 lembar, kecuali 7222
 
 
-## 2M
+## 2H
 [Back](#content)<br>
 2H = 6-9 HCP 5H+5any <br>
 [Go To Sequence 2H](#sequence-2h) <br>
-2S = 6-9 HCP 5S+5m <br>
-[Go To Sequence 2H](#sequence-2h)<br>
+
+
+## 2S
+[Back](#content)<br>
+2S = 6-9 HCP 5S+5minor <br>
+[Go To Sequence 2S](#sequence-2s) <br>
 
 
 ## 2NT
@@ -430,25 +434,32 @@ Note :
 - 2NT = 11-13 HCP full balance ( 4333 )
 - 3C = 11-13 HCP 4C + 4D/H/S
 - 3D = 11-13 HCP 4D + 4H
-- 3H = 11-13 HCP 
+- 3H = 11-13 HCP 4H + 4S
+- 3S = 11-13 HCP 4S + 4D
 
 
 
 ## 1C-2H-2S
 [Back](#sequence-1c)<br>
 2S = ask singleton <br>
-- [2NT= 12+ HCP](#1c-2h-2s-2nt-3c)
-- 3C/D/H/S = singleton C/D/H/S
+- [2NT= 14+ HCP](#1c-2h-2s-2nt-3c)
+- 3C = 11-13 HCP 4441
+- 3D = 11-13 HCP 4414
+- 3H = 11-13 HCP 4144
+- 3S = 11-13 HCP 1444
 
 ## 1C-2H-2S-2NT-3C
 [Back](#1c-2h-2s)<br>
 3C = ask singleton <br>
-- 3D/H/S/NT = Singleton D/H/S/C
-    - NT adalah singleton C
+- 3D = 4414
+- 3H = 4144
+- 3S = 1444
+- 3NT = 4441
+
 
 ## 1C-2S-2NT
 [Back](#sequence-1c)<br>
-2NT = ask 6+ cards <br>
+2NT = ask cards <br>
 - 3C/D/H/S = 6+ C/D/H/S
 
 ## Sequence 1D
@@ -457,13 +468,12 @@ Note :
 - [1H = any HCP 4+H](#1d-1h)
 - [1S = any HCP 4+S](#1d-1s)
 - [1NT= 6-9 HCP T/P](#1d-1nt)
-- [2C = 10+ HCP 4+C](#1d-2c)
-- [2D = 10+ HCP 4+D](#1d-2d)
-- [2H = 6-9 HCP 4H + 5S](#1d-2h)
-- 2S = 10-11 HCP 5S + 5C
+- [2C = 12+ HCP 4+C](#1d-2c)
+- [2D = 12+ HCP 4+D](#1d-2d)
+- 2H = 6-9 HCP 4H + 5S
+- 2S = 6-9 HCP 5C + 5D
 - 2NT= 10-11 HCP 5H + 5C
-- 3C = 6-9 HCP (5+5+) mm
-- 3D = Preemptive 6+D
+- 3C/D/H/S = Preemptive 
 
 Note :
 - Utamakan 1D-1M daripada 1D-2m. Major dulu baru minor
@@ -498,23 +508,22 @@ Note :
 - [2C = Puppet to 2D](#1d-1h-1s-2c-2d)
 - [2D = GF](#1d-1h-1s-2d)
 - 2H = 6+H T/P
-- 2S = 4+S Invite
+- 2S = 4+S T/P
 
 ## 1D-1H-1S-2C-2D
 [Back](#1d-1h-1s)<br>
 2D = Forced<br>
 - P = T/P
 - 2H = 5+H Invite
-- 2S = ?
+- 2S = 4+S Invite
 - 2NT= Invite to 3NT
 
 ## 1D-1H-1S-2D
 [Back](#1d-1h-1s)<br>
 - 2H = 3 lbr H (Secondary support)
-- 2S = 12-13 HCP Balance
-    - Karena max punya 4 lenbar S, maka diisi balanced card
-- 2NT= 14 HCP Balance
-- 3C = 4+4+ minors
+- 2S = Unbalance
+- 2NT= Balance
+- 3C = 5+C
 - 3D = 5+D
 
 ## 1D-1H-1NT
@@ -524,11 +533,9 @@ Note :
 - [2D = GF](#1d-1h-1nt-2d)
     - Mencari fit 5-3 lewat sini
 - 2H = 5+H T/P
-- 2S = 6+H + any second suit
-    - Kartu jarang & sering dilupakan bidnya
 - [2NT= Puppet to 3C](#1d-1h-1nt-2nt-3c)
-    - T/P 3C atau 6+m GF
-- 3C/D/H = ?
+- 3C = 5H + 5C Invite
+- 3D = 5H + 5D Invite
 - 3S = Splinter S 7+H SI
 - 3NT= T/P
 - 4C/D = Splinter C/D 7+H SI
@@ -539,7 +546,6 @@ Note :
 2D = Forced<br>
 - P = T/P
 - 2H = 5+H Invite
-- 2S = 4H + 4S Invite
 - 2NT= Invite to 3NT
 
 ## 1D-1H-1NT-2D
