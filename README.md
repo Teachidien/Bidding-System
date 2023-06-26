@@ -1,4 +1,4 @@
-# Bidding System ITS Precision Modified #
+# Bidding System AgBC #
 
 # Content
 - [Opening](#opening)
