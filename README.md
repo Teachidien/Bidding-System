@@ -509,6 +509,9 @@ Note :
 - [2D = GF](#1d-1h-1s-2d)
 - 2H = 6+H T/P
 - 2S = 4+S T/P
+- 2NT = Puppet to 3C
+- 3C = 5H+5C Invite
+- 3D = 5H + 5D Invite
 
 ## 1D-1H-1S-2C-2D
 [Back](#1d-1h-1s)<br>
@@ -517,11 +520,13 @@ Note :
 - 2H = 5+H Invite
 - 2S = 4+S Invite
 - 2NT= Invite to 3NT
+- 3C = 4H + 5C Invite
+- 3D = 4H + 5D Invite
 
 ## 1D-1H-1S-2D
 [Back](#1d-1h-1s)<br>
 - 2H = 3 lbr H (Secondary support)
-- 2S = Unbalance
+- 2S = balance no stopper D
 - 2NT= Balance
 - 3C = 5+C
 - 3D = 5+D
@@ -547,6 +552,8 @@ Note :
 - P = T/P
 - 2H = 5+H Invite
 - 2NT= Invite to 3NT
+- 3C = 4H + 5C Invite
+- 3D = 4H + 5D Invite
 
 ## 1D-1H-1NT-2D
 [Back](#1d-1h-1nt)<br>
@@ -577,28 +584,12 @@ Note :
 - 4C/D = Cue C/D fit H SI
 - 4H = T/P
 
-## 1D-1H-1NT-2NT-3C
-[Back](#1d-1h-1nt)<br>
-3C = Forced<br>
-- 3D = 6+D + 4H GF
-- 3H = 6+C + 4H GF Splinter D
-- 3S = 6+C + 4H GF Splinter S
-
-## 1D-1H-1NT-2NT-3C-3D-3H
-[Back](#1d-1h-1nt-2nt-3c)<br>
-3H = ask short<br>
-- 3S = 6+D + 4H Splinter S
-- 3NT= 6+D + 4H Splinter C no SI
-    - can be passed
-- 4C = 6+D + 4H Splinter C SI
-
-
 ## 1D-1S
 [Back](#Sequence-1D) <br>
 - [1NT= 12-14 HCP Balance](#1d-1s-1nt)
 - 2C = (5+4+) mm
 - 2D = (5)/6+ D
-- 2H = ?
+- 2H = 4H + 5D Max HCP
 - 2S = 4S
     - Prioritas support 4 lembar Spades
 
