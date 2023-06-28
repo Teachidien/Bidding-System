@@ -422,9 +422,6 @@ Note :
 
 Note : 
 - Lanjutan setelah bid 2C adalah transfer
-- Lanjutan setelah bid 2D/H/S/NT adalah :
-    - Step jika sudah belajar slam
-    - tutup game boleh jika belum belajar slam
 
 ## 1C-1NT-2C
 [Back](#1c-1nt)<br>
@@ -654,21 +651,6 @@ Note :
 - 4H = Splinter H fit S SI
 - 4S = T/P
 
-## 1D-1S-1NT-2NT-3C
-[Back](#1d-1s-1nt)<br>
-3C = Forced<br>
-- 3D = 6+D + 4S GF
-- 3H = 6+C + 4S GF Splinter H
-- 3S = 6+C + 4S GF Splinter D
-
-## 1D-1S-1NT-2NT-3C-3D-3H
-[Back](#1d-1s-1nt-2nt-3c)<br>
-3H = ask short<br>
-- 3S = 6+D + 4S Splinter H
-- 3NT= 6+D + 4S Splinter C no SI
-    - can be passed
-- 4C = 6+D + 4S Splinter C SI
-
 ## 1D-1NT
 [Back](#Sequence-1D) <br>
 - 2C = (5+4+) mm
@@ -751,28 +733,24 @@ Note :
     - Siap direspon apapun : 
         - any - P/2D/2H = T/P
     - Mau Invite
-- 2C = 12+ HCP 5+C / Balance
+- 2C = 12+ HCP any
     - Jika sudah pernah pass
     - 2C = Drury 10-11 HCP 3 lbr H
 - 2D = 12+ HCP 5+D
+    - Jika sudah pernah pass
     - 2D = Drury 10-11 HCP 4 lbr H Balance
-- 2H = [6-9 HCP 3+H](#1h-2h)
-- 2S = 12+ HCP 5/6+S
-    - Bisa versi harus 6+S, jika 5 lewat 1S
-    - Bisa versi Bergen 12+, maka:
-        - 2C = 12+ HCP 5+C
-        - 2NT= GF Balance
+- [2H = 6-9 HCP 3+H](#1h-2h)
+- [2S = 10-11 HCP, support H, punya singleton](#1h-2s)
 - 2NT= Bergen 12+ HCP 4+H
-    - Janjian dulu apakah bergen max lewat 2S / 2NT
-- 3C = Bergen 6-9 HCP 4+H Unbalance
+- 3C = Bergen 7-9 HCP 4+H punya singleton
 - 3D = Bergen 10-11 HCP 4+H Balance
 - 3H = Blocking
 - 3S = Splinter S 4+H SI
-- 3NT= ?
+- 3NT= T/P
 - 4C = Splinter C 4+H SI
 - 4D = Splinter D 4+H SI
 - 4H = T/P
-- 4S = ?
+- 4S = Exclusion
 - 4NT= ?
 
 ## 1H-1S
@@ -811,50 +789,24 @@ Note :
 - 2NT= 2533
 - 3C/D = 4 lbr C/D (Second suit)
 
-## 1H-1S-1NT-2NT-3C
-[Back](#1h-1s-1nt)<br>
-3C = Forced<br>
-- [3D = 6+D + 4S GF](#1h-1s-1nt-2nt-3c-3d-3h)
-- 3H = 6+C + 4S Splinter H GF
-- 3S = 6+C + 4S Splinter D GF
-
-## 1H-1S-1NT-2NT-3C-3D-3H
-[Back](#1h-1s-1nt-2nt-3c)<br>
-3H = ask short<br>
-- 3S = 6+D + 4S GF Splinter H
-- 3NT= 6+D + 4S GF Splinter C
-    - Could be passed
-- 4C = 6+D + 4S GF Splinter C SI
-
-
 ## 1H-1NT
 [Back](#sequence-1h)<br>
 - P = Min HCP Default bid
-- [2C = Max HCP 2+C](#1h-1nt-2c)
-- [2D = 4+D (Second suit)](#1h-1nt-2d)
+- [2C = 3+C (Second Suit)](#1h-1nt-2c)
+- [2D = 3+D (Second suit)](#1h-1nt-2d)
 - [2H = 6+H / max HCP 5 lbr H](#1h-1nt-2h)
-    - 4S 5H 3D 1C max HCP
 - 2S = Max HCP 6H + 5S
 - 2NT= Max HCP 6+H with splinter
-    - Sering dilupakan, hati-hati
 - 3C = Max HCP 5+C
 - 3D = Max HCP 5+D
 - 3H = Max HCP 6332
-
-Setelah direspon 1NT-nya :
-- 2NT= Invite to 3NT
-- 3C = 6+C Invite
-- 3D = 6+D Invite
-- 3H = 3H Invite
-
 
 ## 1H-1NT-2C
 [Back](#1h-1nt)<br>
 - P = 5+C T/P
 - 2D = 5/6+D T/P
 - 2H = T/P 2H 6-9 / 3H 0-5
-- 2NT= T/P
-    - Karena udah max HCP bid 2C, maka 2NT T/P
+- 2NT= Inite NT
 - 3C = 6+C invite to 5C
     - Ragu untuk bid 3NT
 - 3D = 6+D GF
@@ -864,7 +816,6 @@ Setelah direspon 1NT-nya :
 [Back](#1h-1nt)<br>
 - P = T/P
 - 2H = T/P 2H 6-9 / 3H 0-5
-- 2S = ?
 - 2NT= Invite to 3NT
 - 3C = 6+C Invite
 - 3D = 4+D Invite
@@ -873,7 +824,6 @@ Setelah direspon 1NT-nya :
 ## 1H-1NT-2H
 [Back](#1h-1nt)<br>
 - P = T/P
-- 2S = ?
 - 2NT= Invite
 - 3C = 6+C Invite
 - 3D = 6+D Invite
@@ -884,7 +834,6 @@ Setelah direspon 1NT-nya :
 [Back](#sequence-1h)<br>
 - 2S = SST Game try Max HCP / good hand
     - SST : Short suit trial
-- 2NT= 14 HCP 5332
 - 3C = 4+C Max HCP Invite to 4H
 - 3D = 4+D Max HCP Invite to 4H
 - 3H = 6+H Max HCP Invite to 4H 6322
@@ -899,28 +848,27 @@ Note :
 - 3D = Short D
 - 3H = Short S
 
-Note :
-- Jika short cocok :   
-    - Ketemu xx.. no honor terbaik GAS GAME
-    - Ketemu Jx.. urutan kedua masih gas game
-    - Lastly Ax.. terjelek cocok, boleh gas boleh gak (liat HCP lagi)
-- Sisanya gak cocok :
-    - Ketemu Kx.. / Qx.. / KJx.. / dll Jelek gak game
+## 1H-2NT
+[Back](#1m)<br>
+- 3C = Short C
+- 3D = Short D
+- 3H = No Short
+- 3S = Short S
 
 ## Sequence 1S
 [Back](#sequence)<br>
 1S = 12-15 HCP 5+S <br>
-- [1NT= 11- HCP F1 (boleh dipass)](#1s-1nt)
-- 2C = 12+ HCP 5+C
+- [1NT= 11- HCP F1](#1s-1nt)
+- 2C = 12+ HCP any
 - 2D = 12+ HCP 5+D
 - 2H = 12+ HCP 5+H
 - [2S = 6-9 HCP 3+S](#1s-2s)
-- [2NT= 12+ HCP Balance](#1s-2nt)
+- [2NT= 10-11 HCP,support S, punya singleton](#1s-2nt)
 - [3C = Bergen 12+ HCP 4+S](#1S-3C)
-- 3D = Bergen 6-9 HCP 4+S Unbalance
+- 3D = Bergen 7-9 HCP 4+S punya singleton
 - 3H = Bergen 10-11 HCP 4+S Balance
 - 3S = Blocking
-- 3NT= ?
+- 3NT= T/P
 - 4C = Splinter C 4+S SI
 - 4D = Splinter D 4+S SI
 - 4H = Splinter H 4+S SI
@@ -930,40 +878,27 @@ Note :
 [Back](#sequence-1s)<br>
 Min HCP : 12-13<br>
 Max HCP : 14-15<br>
-- P = Min HCP 5332
-- [2C = Max HCP 2+C](#1s-1nt-2c)
-- [2D = 4+D (Second Suit)](#1s-1nt-2d)
+- [2C = 3+C (Second Suit)](#1s-1nt-2c)
+- [2D = 3+D (Second Suit)](#1s-1nt-2d)
 - [2H = 4+H (Second Suit)](#1s-1nt-2h)
 - [2S = 6+S](#1s-1nt-2s)
-- 2NT = ?
 - 3C/D/H = Max HCP 5+C/D/H
 - 3S = Max HCP 6/7+S Good
 
-Notes :<br>
-- Prinsip ngerespon 1NT yang dijawab :
-    - Preference Bid :
-        - P/2D/2H/2S = T/P
-    - Invite :
-        - 2NT/3C/3D/3H/3S
-
-
 ## 1S-1NT-2C
 [Back](#1s-1nt)<br>
-- P = 5+C T/P
+- P = T/P
 - 2D/H = 5+D/H T/P
 - 2S = 2+S T/P
 
-Notes :<br>
-- Udah max HCP, hcp invite bisa tembak game, kalau nyari fit bisa bid 2NT keatas
-
 ## 1S-1NT-2D
 [Back](#1s-1nt)<br>
-- P = 3+D T/P
+- P = T/P
 - 2H = 5+H T/P
 - 2S = 2+S T/P
 - 2NT = Invite to 3NT
-- 3C = 6+C Invite
-- 3D = 4+D Invite
+- 3C = T/P
+- 3D = 5+D Invite
 - 3H = 6+H Invite
 - 3S = 3+S Invite
 
@@ -989,7 +924,6 @@ Notes :<br>
 - [2NT = SST Game Try](#1S-2S-2NT-3C)
     - Has short
 - 3C/D/H = Max HCP LST Game Try
-    - Need honor support in that suit
 - 3S = Max HCP Good
 - 4S = T/P
 
@@ -999,79 +933,63 @@ Notes :<br>
 - 3D/H = Short D/H
 - 3S = Short C
 
-Note :
-- Jika short cocok :   
-    - Ketemu xx.. no honor terbaik GAS GAME
-    - Ketemu Jx.. urutan kedua masih gas game
-    - Lastly Ax.. terjelek cocok, boleh gas boleh gak (liat HCP lagi)
-- Sisanya gak cocok :
-    - Ketemu Kx.. / Qx.. / KJx.. / dll Jelek gak game
-
-
-## 1S-2NT
+## 1S-2NT-3C
 [Back](#sequence-1s)<br>
-- 3C/D/H = 4+C/D/H (Second suit)
-- 3S = 6+S (Second suit)
-- 3NT= 5332
+3C = ask short
+    - 3D/H = Short D/H
+    - 3S = Short C
 
 ## 1S-3C
 [Back](#sequence-1s)<br>
 - 3D/H = Short D/H
 - 3S = No Short
-- 3NT = ?
 - 4C = Short C
 
 Notes :<br>
 - Prioritas bidding terendah
-
 
 ## Sequence 1NT
 [Back](#1nt)<br>
 [Go To Competitive bidding](#competitive-1nt)<br>
 [Go To Examples](./Examples/1NT-Strong)<br>
 1NT = 15-17 HCP Balance <br>
-- [2C = 7+ HCP ask 4M](#1nt-2c)
+- [2C = 8+ HCP ask 4M](#1nt-2c)
     - 7 HCP invite boleh tapi bagus (ada kartu panjang)
     - Intive to 3NT lewat sini
     - (54)M GF lewat sini
 - [2D = any HCP Transfer to H (5+H)](#1nt-2d)
 - [2H = any HCP Transfer to S (5+S)](#1nt-2h)
-- [2S = 55m NF / 55m GF / 6+m NF](#1nt-2s)
-- [2NT= 6+m GF + short M](#1nt-2nt-3c)
-- 3C = 6C + 4any SI
-- 3D = 6D + 4any SI
+- [2S = 55m NF / 55m GF / 6D NF](#1nt-2s-2nt)
+- [2NT= Tree suiter GF / 6C NF ](#1nt-2nt-3c)
+- 3C = Invite 6C
+- 3D = Invite 6D
 - 3H = 31(54) GF
 - 3S = 13(54) GF
 - 3NT= T/P
 - 4C = [Gerber ask keycards](#response-to-ask-keycards)
 - 4D = Texas transfer to H (6+H)
 - 4H = Texas transfer to S (6+S)
-- 4NT= [Quantitative, ask keycards](#response-to-ask-keycards
-)
-
-Note :
-1. Ada beberapa sequence lain yang hanya beda poin
+- 4NT= [Quantitative](#response-to-ask-keycards)
 
 ## 1NT-2C
 [Back](#sequence-1nt) <br>
 - [2D = no 4M](#1nt-2c-2d)
-- [2H = 4H](#1nt-2c-2h)
-- [2S = 4S](#1nt-2c-2s)
-- 2NT= Min HCP 44M
-- 3C = Max HCP 44M 
+- [2H = 4+H](#1nt-2c-2h)
+- [2S = 4+S](#1nt-2c-2s)
+- 2NT= 15-16 HCP 44M
+- 3C = 17 HCP 44M 
 
 ## 1NT-2C-2D
 [Back](#1nt-2c) <br>
-- 2H = 44M NF
+- 2H = 5H + 4S invite
 - 2S = 5S + 4H invite
 - 2NT= invite to 3NT
-- [3C = GF any](#1nt-2c-2d-3c)
+- [3C = GF tanya dist](#1nt-2c-2d-3c)
 - 3D = 55M invite / SI
 - 3H = 4H + 5S GF (Smolen)
 - 3S = 4S + 5H GF (Smolen)
 - 3NT= T/P
 - [4C = Gerber ask keycards](#response-to-ask-keycards)
-- 4D/4H/4S = ?
 - [4NT = Quantitative ask keycards](#response-to-ask-keycards)
 
 ## 1NT-2C-2D-3C
@@ -1089,7 +1007,6 @@ Note :
 
 ## 1NT-2C-2H
 [Back](#1nt-2c) <br>
-- 2S = 4S Invite
 - 2NT= Invite
 - 3C = re-stayman ask 5H GF
 - 3H = 4H Invite
@@ -1122,41 +1039,32 @@ Note :
 [Back](#sequence-1nt) <br>
 - [2H = Default bid](#1nt-2d-2h)
 - 2S = Max HCP 4+H doubleton S
-- 2NT= Max HCP 4+H
+- 2NT= Max HCP 4+H balance
 - 3C = Max HCP 4+H doubleton C
 - 3D = Max HCP 4+H doubleton D
 
 ## 1NT-2D-2H
 [Back](#1nt-2d)<br>
 - P = T/P 5+H
-- [2S = Reject transfer 4441 any singleton GF](#1nt-2d-2h-2s-2nt)
+- 2S = 55 Major NF
 - 2NT= 5H Invite
 - [3C = 5H + 4C GF (Second suit)](#1nt-2d-2h-3c)
 - [3D = 5H + 4D GF (Second suit)](#1nt-2d-2h-3d)
 - 3H = 6+H Invite
-- 3S = Splinter S 7+H SI
+- 3S = Splinter S 6+H SI
 - 3NT= 5H Pass/Correct to 4H
-- 4C = Splinter C 7+H SI
-- 4D = Splinter D 7+H SI
+- 4C = Splinter C 6+H SI
+- 4D = Splinter D 6+H SI
 - 4H = Quantitative 6+H
-- 4S = ?
+- 4S = Exclusion S 6+H
 - 4NT= Quantitative 5H (lanjutan dianggap fit H)
-- 5C = Exclusion C 7+H
-- 5D = Exclusion D 7+H
-
-## 1NT-2D-2H-2S-2NT
-[Back](#1nt-2d-2h) <br>
-2NT = ask singleton
-- 3C = Singleton C
-- 3D = Singleton D
-- 3H = Singleton H
-- 3S = Singleton S
+- 5C = Exclusion C 6+H
+- 5D = Exclusion D 6+H
 
 ## 1NT-2D-2H-3C
 [Back](#1nt-2d-2h)
 - 3D = Fit C
 - 3H = Fit H
-- 3S = 5S no fit C/H
 - 3NT= Default bid
 - 4C = Double Fit C & H no cue D
 - 4D = Double Fit C & H cue D
@@ -1183,12 +1091,12 @@ Note :
 - 2NT= 5S Invite
 - [3C = 5S + 4C GF (Second suit)](#1nt-2h-2s-3c)
 - [3D = 5S + 4D GF (Second suit)](#1nt-2h-2s-3d)
-- 3H = Splinter H 7+S SI
+- 3H = 55 Major GF
 - 3S = 6+S Invite
 - 3NT= 5S Pass/Corrct to 4S
-- 4C = Splinter C 7+S SI
-- 4D = Splinter D 7+S SI
-- 4H = Splinter H 7+S SI
+- 4C = Splinter C 6+S SI
+- 4D = Splinter D 6+S SI
+- 4H = Splinter H 6+S SI
 - 4S = Quantitative 6+S
 - 4NT= Quantitative 5S (Lanjutan dianggap fit S)
 - 5C = Exclusion C 6/7+S
@@ -1214,50 +1122,21 @@ Note :
 - 4D = Double fit D & S no cue
 - 4H = Double fit D & S cue H
 
-## 1NT-2S
-[Back](#sequence-1nt)<br>
-- [2NT= Better D / Same](#1nt-2s-2nt)
-- [3C = Better C](#1nt-2s-3c)
-
-Note :
-- Tidak boleh bid 3D karena ada kemungkinan one suiter C
-
 ## 1NT-2S-2NT
-[Back](#1nt-2s)<br>
-- 3C = T/P
-- 3D = T/P
+[Back](#sequence-1nt)<br>
+- 3C = 55 minor NF
+- 3D = T/P D
 - 3H = Splinter H 55m GF
 - 3S = Splinter S 55m GF
-- 3NT= 55m HCP Invite
-    - Experimental, tambahan oleh Aminemc-Floren_B
-    - Jika opener kurang poin, opener bid 4m
-    - Jika tidak ada stopper, opener lari ke minor
-
-## 1NT-2S-3C
-[Back](#1nt-2s)<br>
-- P = T/P
-- 3D = T/P
-- 3H = Splinter H 55m GF
-- 3S = Splinter S 55m GF
-- 3NT= 55m HCP Invite
-    - Experimental, tambahan oleh Aminemc-Floren_B
-    - Jika opener kurang poin bid 4m
-    - Jika tidak ada stopper lari ke minor
 
 ## 1NT-2NT-3C
 [Back](#sequence-1nt)<br>
 3C = Default Bid
-- [3D = 6+D SI](#1nt-2nt-3c-3d-3h)
-- 3H = 6+C Splinter H
-- 3S = 6+C Splinter S
-Note :
-- Tujuan bidding harus SI, sehingga harus ada short
-
-## 1NT-2NT-3C-3D-3H
-[Back](#1nt-2nt-3c)<br>
-3H = ask short
-- 3S = Splinter S
-- 3NT= Splinter H
+- pass = T/P
+- 3D = 4414 GF
+- 3H = 4144 GF
+- 3S = 1444 GF
+- 3NT = 4441 GF
 
 ## Sequence 2C
 [Back](#sequence)<br>
@@ -1490,83 +1369,48 @@ Note :
 
 ## Sequence 2D
 [Back](#sequence)<br>
-- 2H = T/P
-- 2S = T/P
-- 2NT= 10+ HCP Ask dist
-- 3C = T/P
-- 3H = 10-11 HCP Invite
-- 3S = 10-11 HCP Invite
-- 3NT= T/P with stopper D
-- 4C = 10-11 HCP Invite
-- 4D = ?
-- 4H = T/P
-- 4S = T/P
-- 4NT= ?
-- 5C = T/P
+- 2H = P/C
+- 2S = P/C support 3H
+- 2NT= 15+ HCP Ask dist
+- 3H/S = Inv P/C
+- 3NT= T/P 
+- 4C = TF Major
+- 4D = Bid Major
 
 ## 2D-2NT
 [Back](#sequence-2d)<br>
-Versi 1 : <br>
-- 3C = 12-13 HCP 4414
-- 3D = 12-13 HCP 4405
-- 3H = 14-15 HCP 4414
-- 3S = 14-15 HCP 4405
-
-Note : 
-- Susah set fit M
-- Gampang kabur jika minimum
-
-Versi 2 : <br>
-- 3C = 14-15 HCP 4405
-- 3D = 12-13 HCP 4405
-- 3H = 14-15 HCP 4414
-- 3S = 12-13 HCP 4414
-
-Note :
-- Lupa ini ka urutannya D:
-- Gampang buat set fit
-- 2NT = SI
+- 3C = bad H
+- 3D = bad S
+- 3H = Good H
+- 3S = Good S
 
 ## Sequence 2H
 [Back to sequence](#sequence)<br>
-Normalnya, pasangan ITS 2M-2NT selalu Ougust, jika ada lainnya tidak dimasukkan di github ini.<br>
-
-- 2S = 5+S Forcing
-- [2NT= Ougust](#2h-2nt)
-    - ask distribution
-    - Siap game jika dijawab Max good
-- 3C/D = 5+C/D Forcing
+- 2S = P/C
+- [2NT=Asking](#2h-2nt)
 - 3H = Blocking
-- 3S = Splinter S fit H
+- 3S = Blocking P/C
 - 3NT= T/P
-- 4C/D = Splinter C/D fit H
 - 4H = T/P
 
 ## 2H-2NT
 [Back](#sequence-2h)<br>
-- 3C = Minimum Bad
-- 3D = Minimum Good
-- 3H = Maximum Bad
-- 3S = Maximum Good
+- 3C = C
+- 3D = D
+- 3S = S
 
 ## Sequence 2S
 [Back to sequence](#sequence)<br>
-Normalnya, pasangan ITS 2M-2NT selalu Ougust, jika ada lainnya tidak dimasukkan di github ini.<br>
-
-- [2NT = Ougust](#2s-2nt)
-    - ask distribution
-- 3C/D/H = 5+ C/D/H Forcing
+- [2NT = Asking](#2s-2nt)
+- 3C = P/C
 - 3S = Blocking
 - 3NT= T/P
-- 4C/D/H = Splinter C/D/H fit S
 - 4S = T/P
 
 ## 2S-2NT
 [Back](#sequence-2s)<br>
-- 3C = Minimum Bad
-- 3D = Minimum Good
-- 3H = Maximum Bad
-- 3S = Maximum Good
+- 3C = C
+- 3D = D
 
 # Competitive
 [Back to Content](#content)<br>
