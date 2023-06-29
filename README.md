@@ -918,8 +918,8 @@ Max HCP : 14-15<br>
 
 ## 1S-2NT
 [Back](#sequence-1s)<br>
-3C = ask short
-    - 3D/H = Short D/H
+3C = ask short<br>
+    - 3D/H = Short D/H<br>
     - 3S = Short C
 
 ## 1S-3C
