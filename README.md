@@ -916,7 +916,7 @@ Max HCP : 14-15<br>
 - 3D/H = Short D/H
 - 3S = Short C
 
-## 1S-2NT-3C
+## 1S-2NT
 [Back](#sequence-1s)<br>
 3C = ask short
     - 3D/H = Short D/H
