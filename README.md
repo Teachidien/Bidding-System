@@ -2,32 +2,6 @@
 
 # Content
 - [Opening](#opening)
-    - [1C](#1c)
-    - [1D](#1d)
-    - [1M](#1m)
-    - [1NT](#1nt)
-    - [2C](#2c)
-    - [2D](#2d)
-    - [2H](#2h)
-    - [2S](#2s)
-    - [2NT](#2nt)
-    - [3X](#3x)
-    - [3NT](#3nt)
-    - [4X](#4x)
-- [Sequence](#sequence)
-- [Competitive](#Competitive)
-    - [1C](#competitive-1c)
-    - [1D](#competitive-1d)
-    - [1H](#competitive-1h)
-    - [1NT](#competitive-1nt)
-- [Overcall](#overcall)
-- Tambahan Konvensi Bidding :
-    - [Response to ask keycards](#response-to-ask-keycards)
-    - [Exclusion](#exclusion)
-    - [Ask King](#ask-king)
-    - [Extra](#Extra)
-- [Signal](#signal)
-- [List Janjian](#list-janjian)
 
 # Lead NT
 A = AK dibalas Attitude<br>
@@ -42,6 +16,33 @@ K = AK / KQ dibalas dist<br>
 Q = KQ / QJ dibalas Attitude<br>
 small = ganjil<br>
 big = genap
+
+# Discard
+Roman Lacintal<br>
+Lavintal<br>
+Revolver<br>
+
+# respons 4nt keycard
+5C = 1/4<br>
+5D = 0/4<br>
+5H = 2 no Q<br>
+5S = 2 with Q<br>
+
+# Respons 4C gerber
+4D = 1/4<br>
+4H = 0/3<br>
+4S = 2 Color (SC / HD)<br>
+4NT = 2 Range (SH / DC)<br>
+5C = 2 Mix (SD / HC)
+
+
+# Defense 2D major
+X = strong / TO Spade<br>
+2H = TO Heart<br>
+2S = nat S
+2NT = 15-18 ball
+
+# 
 
 # Opening
 ♣ ♦ ♥ ♠<br>
