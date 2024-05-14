@@ -1,4 +1,4 @@
-# Bidding System AgBC #
+# Bidding Convention #
 
 # Content
 - [Opening](#opening)
@@ -28,6 +28,13 @@
     - [Extra](#Extra)
 - [Signal](#signal)
 - [List Janjian](#list-janjian)
+
+# Lead NT
+A = AK dibalas Attitude
+K = AK / KQ dibalas dist
+Q = KQ / QJ dibalas Attitude
+T = 2 /0
+
 
 # Opening
 ♣ ♦ ♥ ♠<br>
