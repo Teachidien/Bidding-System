@@ -30,9 +30,9 @@
 - [List Janjian](#list-janjian)
 
 # Lead NT
-A = AK dibalas Attitude
-K = AK / KQ dibalas dist
-Q = KQ / QJ dibalas Attitude
+A = AK dibalas Attitude<br>
+K = AK / KQ dibalas dist<br>
+Q = KQ / QJ dibalas Attitude<br>
 T = 2 /0
 
 
