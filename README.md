@@ -33,8 +33,15 @@
 A = AK dibalas Attitude<br>
 K = AK / KQ dibalas dist<br>
 Q = KQ / QJ dibalas Attitude<br>
-T = 2 /0
+T = 2 /0 <br>
+x = forthbase
 
+# Lead Warna
+A = AK / Ax / A dibalas Attitude<br>
+K = AK / KQ dibalas dist<br>
+Q = KQ / QJ dibalas Attitude<br>
+small = ganjil<br>
+big = genap
 
 # Opening
 ♣ ♦ ♥ ♠<br>
